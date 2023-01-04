@@ -102,8 +102,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EddylianOrigin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EddylianOrigin&show_icons=true&count_private=true&hide_border=true" align="center" />
+<br/>
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=EddylianOrigin&theme=radical">
+</div>
 
 
 ## Recent Blog Posts  
@@ -111,16 +113,7 @@
 <img src="https://cdn.pixabay.com/photo/2018/02/15/18/29/devops-3155973_1280.jpg" align="center" height="350" width="800" />
 </div>  
   
-
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EDDYLIAN&&style=flat-square" align="center" />
-</div>  
 
 <br />
 ----
