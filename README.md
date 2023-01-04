@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning AI, Algorithm, Data-management, Cyber-Security and some Front- and Backend Framework  
   
-
-- ❓ Ask me about anything related to related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
