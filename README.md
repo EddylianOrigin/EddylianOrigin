@@ -112,7 +112,7 @@
 
 ## Recent Blog Posts  
 <div align="center">
-<img src="/image/devops" align="center" height="300" width="800" />
+<img src="https://cdn.pixabay.com/photo/2018/02/15/18/29/devops-3155973_1280.jpg" align="center" height="300" width="600" />
 </div>  
   
 
