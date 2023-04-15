@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm EDDY aka "Eddylian", a Frontend developer wanting to become Fullstack.👨💻 working in the Tech world since 2020. 🚀</div>  
+### <div align="center">I'm EDDY aka "Eddylian", a software and web developer👨💻 </div>  
   
 
 - 🔭 I'm currently working on my own projects for fun  
