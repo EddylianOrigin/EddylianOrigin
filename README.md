@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm EDDY aka "Eddylian", a software - web developer and tester👨💻 </div>  
+### <div align="center">I'm EDDY aka "Eddylian", a software - SOFTWARE developer and tester👨💻 </div>  
   
 
 - 🔭 I'm currently working on my own projects for fun  
