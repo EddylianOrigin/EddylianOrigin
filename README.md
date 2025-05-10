@@ -1,4 +1,5 @@
 # EDDYLIAN
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
@@ -11,7 +12,7 @@
 
   
 
-- 🌱 I’m currently learning Software & Hardware Engineering with AI.  
+- 🌱 I'm interested in software and hardware engineering and artificial intelligence.
   
   
 
