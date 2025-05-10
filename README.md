@@ -11,7 +11,7 @@
 
   
 
-- 🌱 I’m currently learning AI, Algorithm, Data-management, Cyber-Security and some Front- and Backend Framework  
+- 🌱 I’m currently learning Software & Hardware Engineering with AI.  
   
   
 
