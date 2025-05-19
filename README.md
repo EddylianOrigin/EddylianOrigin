@@ -108,7 +108,7 @@ margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-orig
 
 ### Support Me  
 <div align="center">
-            <a href="sylvaineddy22@gmail.com" target="_blank" style="display: inline-block;">
+            <a href="href="https://paypal.me/sylvaineddy22@gmail.com" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
