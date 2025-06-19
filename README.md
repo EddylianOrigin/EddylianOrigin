@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm EDDY aka "Eddylian", a SOFTWARE Engineer and tester👨💻 </div>  
+### <div align="center">I'm EDDY aka "Eddylian", a SOFTWARE Engineer & QA👨💻 </div>  
   
 
 - 🔭 I'm currently working on my own projects for fun  
