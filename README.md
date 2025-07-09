@@ -23,7 +23,7 @@
 
 
 ## My Skill Set  
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="33%" ;>
 
@@ -42,7 +42,7 @@
 </div>
     </td>
 
-<td valign="top" width="34%" >
+<td valign="top" width="33%" >
 
 ### Backend  
 <div align="center">    
@@ -59,7 +59,7 @@
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="34%">
  
 ### DevOps  
 <div align="center">  
