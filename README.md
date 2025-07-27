@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 <br/>  
-
+<!--
 ## My Skill Set
 
 <table align="center">
@@ -91,6 +91,7 @@
 </table>  
 
 <br/>  
+-->
 
 ## Connect with me
 
