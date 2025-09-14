@@ -1,10 +1,11 @@
 # EDDYLIAN
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width
+: 50%" />
 </div>  
 
-### <div align="center">I'm EDDY aka "Eddylian", a SOFTWARE Engineer & QA👨💻 </div>
+### <div align="center">I'm EDDY aka "Eddylian", a SOFTWARE Engineer & QM👨💻 </div>
 
 - 🔭 I'm currently working on my own projects for fun
 
